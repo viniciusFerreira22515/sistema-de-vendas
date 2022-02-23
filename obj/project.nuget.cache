@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zAU0yZwhcQLKotPVBeAYo5+B2QICXdhXP52IoJhxrpAndlk5iz642lhFAQy/w+DLaMJDQ8jA5IEckR2oxhxgwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vinif\\Documents\\Projects\\sistema-de-vendas\\sistema-de-vendas\\sistema-de-vendas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinif\\.nuget\\packages\\npgsql\\6.0.3\\npgsql.6.0.3.nupkg.sha512",
+    "C:\\Users\\vinif\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
