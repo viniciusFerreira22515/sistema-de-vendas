@@ -62,7 +62,7 @@ namespace sistema_de_vendas
             {
                 banco = new Banco();
                 banco.comando.CommandText = "DELETE FROM cliente WHERE codigo = @c";
-                banco.comando.Parameters.Add("@c", NpgsqlDbType.Integer).Value = produto.codigo;
+                banco.comando.Parameters.Add("@c", NpgsqlDbType.Integer).Value = cliente.codigo;
                 banco.comando.Prepare();
                 qtde = banco.comando.ExecuteNonQuery();
                 Banco.conexao.Close();
